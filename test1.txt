@@ -7,4 +7,9 @@ bbbbbbbbbbbbbbbbb
 eeeeeeeeeeeeee
 xdgdgf
 
-eeee
+rrr
+<<<<<<< .mine
+
+=======
+
+>>>>>>> .theirs
