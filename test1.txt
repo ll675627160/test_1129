@@ -6,10 +6,3 @@ bbbbbbbbbbbbbbbbb
 
 eeeeeeeeeeeeee
 xdgdgf
-
-rrr
-<<<<<<< .mine
-
-=======
-
->>>>>>> .theirs
